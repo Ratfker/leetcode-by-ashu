@@ -19,6 +19,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
