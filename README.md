@@ -8,6 +8,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0004-median-of-two-sorted-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
