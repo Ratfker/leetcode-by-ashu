@@ -28,6 +28,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
