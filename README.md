@@ -1,6 +1,4 @@
-# leetcode-by-ashu
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+this file contains all the problems from leetcode that i have solved over the time.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
