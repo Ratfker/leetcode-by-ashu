@@ -6,6 +6,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0001-two-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,9 +51,14 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
