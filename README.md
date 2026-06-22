@@ -9,6 +9,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0005-longest-palindromic-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,5 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
