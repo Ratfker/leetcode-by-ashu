@@ -14,6 +14,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
