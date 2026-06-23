@@ -12,6 +12,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0016-3sum-closest](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0039-combination-sum) |
 ## Stack
 |  |
 | ------- |
