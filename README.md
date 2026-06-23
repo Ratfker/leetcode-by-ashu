@@ -74,6 +74,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0038-count-and-say) |
 ## Sliding Window
 |  |
 | ------- |
