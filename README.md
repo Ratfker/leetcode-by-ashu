@@ -113,6 +113,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0010-regular-expression-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0032-longest-valid-parentheses) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +162,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0037-sudoku-solver) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
