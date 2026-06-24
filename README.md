@@ -30,6 +30,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,6 +196,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0036-valid-sudoku](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0054-spiral-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -207,4 +209,5 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
