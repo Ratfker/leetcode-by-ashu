@@ -163,6 +163,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0046-permutations](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
