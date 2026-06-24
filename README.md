@@ -53,6 +53,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0012-integer-to-roman](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +178,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
