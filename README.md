@@ -29,6 +29,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0048-rotate-image](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0042-trapping-rain-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
