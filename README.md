@@ -23,6 +23,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0040-combination-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,12 +124,14 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0032-longest-valid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
