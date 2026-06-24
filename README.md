@@ -32,6 +32,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0056-merge-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0018-4sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
