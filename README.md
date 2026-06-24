@@ -27,6 +27,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0046-permutations](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0036-valid-sudoku](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0038-count-and-say](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +150,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0016-3sum-closest](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
