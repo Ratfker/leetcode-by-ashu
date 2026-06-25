@@ -116,6 +116,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0063-unique-paths-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0072-edit-distance) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
