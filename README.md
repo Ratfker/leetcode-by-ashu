@@ -45,6 +45,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0078-subsets](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0076-minimum-window-substring) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0004-median-of-two-sorted-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +238,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -262,6 +266,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -286,4 +291,12 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
