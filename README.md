@@ -38,6 +38,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0063-unique-paths-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0058-length-of-last-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +243,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0054-spiral-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
