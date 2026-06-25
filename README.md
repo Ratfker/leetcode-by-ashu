@@ -70,6 +70,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0062-unique-paths) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -226,4 +228,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0043-multiply-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
