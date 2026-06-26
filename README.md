@@ -46,6 +46,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0084-largest-rectangle-in-histogram) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -238,6 +239,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0032-longest-valid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -281,6 +283,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0084-largest-rectangle-in-histogram) |
 ## Simulation
 |  |
 | ------- |
