@@ -257,6 +257,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0071-simplify-path](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -325,6 +326,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 ## Segment Tree
 |  |
 | ------- |
@@ -334,4 +336,12 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
