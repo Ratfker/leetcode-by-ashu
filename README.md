@@ -142,6 +142,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0076-minimum-window-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -246,6 +247,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
