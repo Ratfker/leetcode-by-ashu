@@ -101,6 +101,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0069-sqrtx](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -207,6 +208,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -343,13 +345,16 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
