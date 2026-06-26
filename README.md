@@ -98,6 +98,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -241,6 +242,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0077-combinations](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +272,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0029-divide-two-integers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
