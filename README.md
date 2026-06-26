@@ -206,6 +206,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0072-edit-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -248,6 +249,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -340,8 +342,14 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
