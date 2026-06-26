@@ -335,6 +335,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -352,6 +353,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,6 +362,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -370,4 +373,5 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
