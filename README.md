@@ -54,6 +54,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0119-pascals-triangle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -224,6 +225,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0119-pascals-triangle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -233,6 +235,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0044-wildcard-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0055-jump-game) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
 |  |
 | ------- |
