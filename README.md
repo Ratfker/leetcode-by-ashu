@@ -356,6 +356,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0099-recover-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0113-path-sum-ii) |
@@ -382,6 +383,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0113-path-sum-ii) |
@@ -399,6 +401,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0113-path-sum-ii) |
@@ -418,6 +421,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0101-symmetric-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0116-populating-next-right-pointers-in-each-node) |
