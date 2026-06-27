@@ -50,6 +50,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0120-triangle) |
@@ -73,6 +74,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0049-group-anagrams](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -177,6 +179,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0004-median-of-two-sorted-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -384,6 +387,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0102-binary-tree-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0113-path-sum-ii) |
@@ -402,6 +406,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0102-binary-tree-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0113-path-sum-ii) |
