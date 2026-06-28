@@ -60,6 +60,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -343,6 +344,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0074-search-a-2d-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -389,6 +391,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 ## Segment Tree
 |  |
 | ------- |
@@ -473,8 +476,10 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
