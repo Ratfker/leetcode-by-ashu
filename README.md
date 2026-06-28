@@ -388,6 +388,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Segment Tree
 |  |
 | ------- |
@@ -422,6 +423,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -447,6 +449,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
