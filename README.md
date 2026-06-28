@@ -59,6 +59,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -248,6 +249,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0045-jump-game-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
 | ------- |
@@ -263,6 +265,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0056-merge-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
 | ------- |
