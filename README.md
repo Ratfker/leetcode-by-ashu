@@ -62,6 +62,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0128-longest-consecutive-sequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -266,6 +267,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0055-jump-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
