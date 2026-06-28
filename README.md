@@ -80,6 +80,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0127-word-ladder) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -165,6 +166,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0115-distinct-subsequences](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -465,4 +467,5 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
