@@ -119,6 +119,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0138-copy-list-with-random-pointer](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +150,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0025-reverse-nodes-in-k-group](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -240,6 +242,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0125-valid-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -339,6 +342,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
