@@ -107,6 +107,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0146-lru-cache](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -156,6 +157,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -210,6 +212,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
