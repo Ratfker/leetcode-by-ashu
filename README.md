@@ -67,6 +67,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0137-single-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,6 +99,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0141-linked-list-cycle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -144,6 +146,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0070-climbing-stairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -554,4 +557,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
