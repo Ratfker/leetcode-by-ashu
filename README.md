@@ -104,6 +104,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0142-linked-list-cycle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0160-intersection-of-two-linked-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -131,6 +132,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0146-lru-cache](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +265,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
