@@ -201,6 +201,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0132-palindrome-partitioning-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0151-reverse-words-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -256,6 +257,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0142-linked-list-cycle-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
