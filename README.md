@@ -159,6 +159,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0168-excel-sheet-column-title) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -214,6 +215,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0151-reverse-words-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0168-excel-sheet-column-title) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
