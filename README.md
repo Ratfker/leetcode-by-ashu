@@ -73,6 +73,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -335,6 +336,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0088-merge-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
@@ -579,4 +581,12 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
