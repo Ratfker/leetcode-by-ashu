@@ -72,6 +72,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0152-maximum-product-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0162-find-peak-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -226,6 +227,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
