@@ -162,6 +162,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0172-factorial-trailing-zeroes) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
