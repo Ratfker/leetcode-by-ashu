@@ -76,6 +76,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0174-dungeon-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -318,6 +319,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0139-word-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0174-dungeon-game) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -433,6 +435,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0079-word-search](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0174-dungeon-game) |
 ## Prefix Sum
 |  |
 | ------- |
