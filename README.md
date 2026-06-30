@@ -625,4 +625,5 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0175-combine-two-tables) |
+| [0180-consecutive-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
