@@ -85,6 +85,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0219-contains-duplicate-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -125,6 +126,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0205-isomorphic-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0219-contains-duplicate-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -252,6 +254,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
