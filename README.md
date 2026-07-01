@@ -257,6 +257,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -427,6 +428,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0090-subsets-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
