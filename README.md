@@ -84,6 +84,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0213-house-robber-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -281,6 +282,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -391,6 +393,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0179-largest-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
@@ -438,6 +441,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
@@ -543,6 +547,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -704,4 +709,16 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
