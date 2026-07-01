@@ -82,6 +82,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0209-minimum-size-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -277,6 +278,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0148-sort-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -385,6 +387,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
@@ -431,6 +434,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
@@ -693,4 +697,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
