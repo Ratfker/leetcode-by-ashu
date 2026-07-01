@@ -185,6 +185,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0172-factorial-trailing-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -199,6 +200,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0143-reorder-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -249,6 +251,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -446,6 +449,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
