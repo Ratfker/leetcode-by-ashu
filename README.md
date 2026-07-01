@@ -115,6 +115,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0160-intersection-of-two-linked-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -167,6 +168,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0166-fraction-to-recurring-decimal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -290,6 +292,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0160-intersection-of-two-linked-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
