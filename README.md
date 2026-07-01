@@ -117,6 +117,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -232,6 +233,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0168-excel-sheet-column-title](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -355,6 +357,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0014-longest-common-prefix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -631,6 +634,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0146-lru-cache](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
+| [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
