@@ -239,6 +239,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -442,6 +443,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -683,4 +685,12 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
