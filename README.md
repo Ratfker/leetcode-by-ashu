@@ -512,6 +512,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 ## Segment Tree
 |  |
 | ------- |
@@ -610,6 +611,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0133-clone-graph](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -622,6 +624,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 ## Design
 |  |
 | ------- |
@@ -653,4 +656,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0180-consecutive-numbers) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
