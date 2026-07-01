@@ -430,6 +430,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0136-single-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Matrix
 |  |
 | ------- |
