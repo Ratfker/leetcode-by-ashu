@@ -498,6 +498,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0133-clone-graph](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
 ## Segment Tree
 |  |
 | ------- |
@@ -537,6 +538,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0144-binary-tree-preorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -566,6 +568,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0144-binary-tree-preorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -592,6 +595,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0127-word-ladder](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
