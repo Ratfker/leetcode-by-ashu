@@ -184,6 +184,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0168-excel-sheet-column-title](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0223-rectangle-area) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -688,6 +689,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0223-rectangle-area) |
 ## Bucket Sort
 |  |
 | ------- |
