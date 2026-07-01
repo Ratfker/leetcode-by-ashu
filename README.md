@@ -273,6 +273,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0162-find-peak-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -475,6 +476,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0137-single-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
 | ------- |
@@ -594,6 +596,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -624,6 +627,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
