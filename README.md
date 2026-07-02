@@ -190,6 +190,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0223-rectangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -205,6 +206,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0203-remove-linked-list-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -490,6 +492,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0191-number-of-1-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
