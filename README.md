@@ -191,6 +191,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -207,6 +208,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0206-reverse-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
 | ------- |
@@ -371,6 +373,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0174-dungeon-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
