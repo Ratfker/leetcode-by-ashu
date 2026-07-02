@@ -91,6 +91,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0228-summary-ranges](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -275,6 +276,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0209-minimum-size-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -476,6 +478,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0023-merge-k-sorted-lists](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
@@ -787,4 +790,9 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
