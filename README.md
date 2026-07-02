@@ -93,6 +93,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0240-search-a-2d-matrix-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -272,6 +273,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -435,6 +437,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0220-contains-duplicate-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0242-valid-anagram) |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
@@ -489,6 +492,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
@@ -601,6 +605,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 ## Segment Tree
 |  |
 | ------- |
@@ -730,6 +735,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0133-clone-graph](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 ## Design
 |  |
 | ------- |
@@ -807,4 +813,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
