@@ -582,6 +582,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0226-invert-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -628,6 +629,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0226-invert-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -662,6 +664,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0226-invert-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
