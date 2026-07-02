@@ -197,6 +197,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -215,6 +216,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -267,6 +269,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0214-shortest-palindrome](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -384,6 +387,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0213-house-robber-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Greedy
@@ -562,6 +566,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0070-climbing-stairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
