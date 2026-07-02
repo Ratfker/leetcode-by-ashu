@@ -460,6 +460,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0224-basic-calculator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0232-implement-queue-using-stacks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -706,6 +707,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0208-implement-trie-prefix-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -767,4 +769,5 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
