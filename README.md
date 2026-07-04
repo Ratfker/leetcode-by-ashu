@@ -100,6 +100,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -577,6 +578,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -601,6 +603,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
 ## Combinatorics
 |  |
 | ------- |
