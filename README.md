@@ -212,6 +212,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -412,6 +413,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -754,6 +756,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
