@@ -98,6 +98,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0274-h-index](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -788,6 +789,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -810,6 +812,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
 ## Database
 |  |
 | ------- |
