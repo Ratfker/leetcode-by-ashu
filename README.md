@@ -201,6 +201,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0258-add-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -569,6 +570,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0059-spiral-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -836,4 +838,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
