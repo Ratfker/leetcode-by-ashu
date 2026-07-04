@@ -149,6 +149,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -297,6 +298,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0273-integer-to-english-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -665,6 +667,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
