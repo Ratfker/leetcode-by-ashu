@@ -319,6 +319,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0278-first-bad-version) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -866,4 +867,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
