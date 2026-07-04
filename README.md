@@ -610,6 +610,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
 |  |
 | ------- |
@@ -725,6 +726,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0226-invert-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -732,6 +734,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0128-longest-consecutive-sequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -740,6 +743,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Design
 |  |
