@@ -101,6 +101,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -332,6 +333,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0275-h-index-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -427,6 +429,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
