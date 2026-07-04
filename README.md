@@ -203,6 +203,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0233-number-of-digit-one](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0263-ugly-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
