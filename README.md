@@ -274,6 +274,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0227-basic-calculator-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -466,6 +467,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0131-palindrome-partitioning](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -609,6 +611,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
@@ -658,6 +661,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -693,6 +697,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
