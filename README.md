@@ -93,6 +93,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0260-single-number-iii) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -527,6 +528,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0201-bitwise-and-of-numbers-range](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0260-single-number-iii) |
 ## Matrix
 |  |
 | ------- |
