@@ -148,6 +148,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0242-valid-anagram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -293,6 +294,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0242-valid-anagram](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
