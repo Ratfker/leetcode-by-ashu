@@ -99,6 +99,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0275-h-index-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -323,6 +324,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -375,6 +377,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -553,6 +556,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0231-power-of-two](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
