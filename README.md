@@ -97,6 +97,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -372,6 +373,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
