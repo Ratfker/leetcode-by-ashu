@@ -218,6 +218,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -888,4 +889,12 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
