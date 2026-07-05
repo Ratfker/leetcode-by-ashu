@@ -132,6 +132,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0817-linked-list-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -365,6 +366,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -460,6 +462,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 | [0809-expressive-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0809-expressive-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
