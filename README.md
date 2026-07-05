@@ -137,6 +137,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -445,6 +446,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -505,6 +507,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 | [0809-expressive-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
@@ -634,6 +637,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
