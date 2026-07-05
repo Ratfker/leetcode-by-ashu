@@ -304,6 +304,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -511,6 +512,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
 ## Stack
 |  |
 | ------- |
