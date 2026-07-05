@@ -145,6 +145,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0526-beautiful-arrangement) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -599,6 +600,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0526-beautiful-arrangement) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
@@ -706,6 +708,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0526-beautiful-arrangement) |
 | [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
 ## Stack
 |  |
@@ -784,6 +787,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0526-beautiful-arrangement) |
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
 | [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 ## Matrix
@@ -1226,6 +1230,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0526-beautiful-arrangement) |
 ## Rejection Sampling
 |  |
 | ------- |
