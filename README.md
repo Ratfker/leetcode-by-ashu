@@ -120,6 +120,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -249,6 +250,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
+| [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -566,6 +568,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
+| [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
 ## Stack
 |  |
 | ------- |
