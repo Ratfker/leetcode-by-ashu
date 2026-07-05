@@ -127,6 +127,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0812-largest-triangle-area) |
+| [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -498,6 +499,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
+| [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -692,6 +694,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
+| [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
