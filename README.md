@@ -231,6 +231,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0319-bulb-switcher) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -950,6 +951,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
