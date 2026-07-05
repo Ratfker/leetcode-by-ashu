@@ -129,6 +129,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0812-largest-triangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
 | [0815-bus-routes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0817-linked-list-components) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -182,6 +183,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
 | [0815-bus-routes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0815-bus-routes) |
+| [0817-linked-list-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0817-linked-list-components) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -215,6 +217,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0328-odd-even-linked-list) |
+| [0817-linked-list-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0817-linked-list-components) |
 ## Math
 |  |
 | ------- |
