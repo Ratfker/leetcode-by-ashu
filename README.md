@@ -130,6 +130,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0447-number-of-boomerangs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -294,6 +295,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0391-perfect-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
