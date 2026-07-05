@@ -123,6 +123,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0393-utf-8-validation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -535,6 +536,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
