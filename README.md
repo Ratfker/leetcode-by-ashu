@@ -135,6 +135,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
 | [0822-card-flipping-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -407,6 +408,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -467,6 +469,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 | [0809-expressive-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -580,6 +583,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0274-h-index](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
+| [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Backtracking
 |  |
