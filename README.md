@@ -142,6 +142,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0517-super-washing-machines](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0517-super-washing-machines) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -220,6 +221,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
@@ -316,6 +318,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0479-largest-palindrome-product](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0483-smallest-good-base) |
 | [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
@@ -812,6 +815,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
