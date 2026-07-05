@@ -133,6 +133,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0819-most-common-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
+| [0822-card-flipping-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0822-card-flipping-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -189,6 +190,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0817-linked-list-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0820-short-encoding-of-words) |
+| [0822-card-flipping-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0822-card-flipping-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
