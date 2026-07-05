@@ -719,6 +719,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
 |  |
@@ -774,6 +775,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -812,6 +814,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -823,6 +826,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0173-binary-search-tree-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
