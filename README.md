@@ -129,6 +129,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -568,6 +569,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
@@ -611,6 +613,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0274-h-index](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0406-queue-reconstruction-by-height](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0406-queue-reconstruction-by-height) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
