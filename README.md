@@ -340,6 +340,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -433,6 +434,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
+| [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -503,6 +505,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
