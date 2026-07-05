@@ -323,6 +323,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -569,6 +570,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -767,6 +769,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -804,6 +807,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
