@@ -117,6 +117,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -471,6 +472,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0313-super-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -734,6 +736,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0307-range-sum-query-mutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
@@ -955,6 +958,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0307-range-sum-query-mutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sweep Line
 |  |
 | ------- |
