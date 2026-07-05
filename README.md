@@ -170,6 +170,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -335,6 +336,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
@@ -507,6 +509,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0211-design-add-and-search-words-data-structure](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -913,6 +916,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0307-range-sum-query-mutable) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
+| [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
