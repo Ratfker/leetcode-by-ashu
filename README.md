@@ -133,6 +133,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -438,6 +439,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -679,6 +681,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
 |  |
@@ -776,6 +779,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0085-maximal-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 ## Simulation
 |  |
 | ------- |
@@ -1099,6 +1103,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0220-contains-duplicate-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 ## Queue
 |  |
 | ------- |
