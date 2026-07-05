@@ -307,6 +307,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0479-largest-palindrome-product) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
@@ -1183,4 +1184,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0478-generate-random-point-in-a-circle) |
+## Enumeration
+|  |
+| ------- |
+| [0479-largest-palindrome-product](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0479-largest-palindrome-product) |
 <!---LeetCode Topics End-->
