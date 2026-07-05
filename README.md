@@ -121,6 +121,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
+| [0806-number-of-lines-to-write-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0806-number-of-lines-to-write-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -341,6 +342,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
+| [0806-number-of-lines-to-write-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0806-number-of-lines-to-write-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
 |  |
