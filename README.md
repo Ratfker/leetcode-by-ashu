@@ -415,6 +415,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0514-freedom-trail](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
