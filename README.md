@@ -195,6 +195,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0206-reverse-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
