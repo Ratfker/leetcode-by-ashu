@@ -143,6 +143,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0517-super-washing-machines](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0517-super-washing-machines) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -422,6 +423,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0520-detect-capital](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
@@ -534,6 +536,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0481-magical-string) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
 | [0809-expressive-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0809-expressive-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
@@ -668,6 +671,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
