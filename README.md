@@ -140,6 +140,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
+| [0517-super-washing-machines](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0517-super-washing-machines) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -606,6 +607,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
+| [0517-super-washing-machines](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0517-super-washing-machines) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0680-valid-palindrome-ii) |
