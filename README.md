@@ -673,6 +673,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
@@ -799,6 +800,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -815,6 +817,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0133-clone-graph](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
@@ -866,6 +869,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Rolling Hash
 |  |
