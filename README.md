@@ -113,6 +113,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -461,6 +462,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0312-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -630,6 +632,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0240-search-a-2d-matrix-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
@@ -671,6 +674,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0139-word-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -705,6 +709,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
@@ -835,6 +840,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -852,6 +858,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
@@ -904,6 +911,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0207-course-schedule](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Rolling Hash
 |  |
