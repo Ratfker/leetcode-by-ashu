@@ -124,6 +124,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0806-number-of-lines-to-write-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0806-number-of-lines-to-write-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0809-expressive-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0809-expressive-words) |
+| [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -254,6 +255,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
 | [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
+| [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -650,6 +652,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0318-maximum-product-of-word-lengths) |
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
+| [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -1037,8 +1040,10 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
