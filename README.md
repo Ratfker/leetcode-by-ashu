@@ -407,6 +407,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0481-magical-string) |
+| [0482-license-key-formatting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0482-license-key-formatting) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
