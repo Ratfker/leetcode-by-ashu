@@ -139,6 +139,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -214,6 +215,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0447-number-of-boomerangs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0454-4sum-ii) |
+| [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
@@ -425,6 +427,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0219-contains-duplicate-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 ## Binary Search
 |  |
 | ------- |
@@ -712,6 +715,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
