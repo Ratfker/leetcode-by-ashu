@@ -102,6 +102,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -599,6 +600,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -818,6 +820,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0232-implement-queue-using-stacks](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0232-implement-queue-using-stacks) |
 | [0284-peeking-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0284-peeking-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
