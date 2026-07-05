@@ -301,6 +301,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
@@ -507,6 +508,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0140-word-break-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -784,6 +786,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0226-invert-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
