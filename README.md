@@ -114,6 +114,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -480,6 +481,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0179-largest-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
+| [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Trie
 |  |
