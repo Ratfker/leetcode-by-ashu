@@ -410,6 +410,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0481-magical-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0482-license-key-formatting) |
 | [0514-freedom-trail](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0516-longest-palindromic-subsequence) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
@@ -580,6 +581,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
 | [0514-freedom-trail](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
