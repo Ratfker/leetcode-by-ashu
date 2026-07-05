@@ -722,6 +722,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
 |  |
@@ -778,6 +779,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -817,6 +819,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0669-trim-a-binary-search-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
