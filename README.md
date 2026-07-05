@@ -241,6 +241,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0319-bulb-switcher](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0326-power-of-three) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -362,6 +363,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
