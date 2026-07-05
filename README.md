@@ -144,6 +144,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0525-contiguous-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -223,6 +224,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0525-contiguous-array) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
@@ -820,6 +822,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0525-contiguous-array) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
