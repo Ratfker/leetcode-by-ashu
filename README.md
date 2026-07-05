@@ -128,6 +128,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
 | [0812-largest-triangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0812-largest-triangle-area) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
+| [0815-bus-routes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0815-bus-routes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -180,6 +181,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
+| [0815-bus-routes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0815-bus-routes) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -909,6 +911,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0815-bus-routes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0815-bus-routes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
