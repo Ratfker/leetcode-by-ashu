@@ -107,6 +107,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0307-range-sum-query-mutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0313-super-ugly-number) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -227,6 +228,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0273-integer-to-english-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0313-super-ugly-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -441,6 +443,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0300-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0313-super-ugly-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
