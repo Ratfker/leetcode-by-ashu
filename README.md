@@ -135,6 +135,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -558,6 +559,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
@@ -660,6 +662,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0679-24-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0679-24-game) |
 ## Stack
 |  |
@@ -735,6 +738,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0318-maximum-product-of-word-lengths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0318-maximum-product-of-word-lengths) |
 | [0393-utf-8-validation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
 | [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 ## Matrix
@@ -1158,4 +1162,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
