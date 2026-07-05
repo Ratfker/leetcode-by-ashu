@@ -217,6 +217,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0454-4sum-ii) |
 | [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
+| [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0677-map-sum-pairs) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
@@ -312,6 +313,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0478-generate-random-point-in-a-circle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0483-smallest-good-base) |
+| [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 | [0667-beautiful-arrangement-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0667-beautiful-arrangement-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0670-maximum-swap) |
@@ -1201,6 +1203,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0478-generate-random-point-in-a-circle) |
+| [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 ## Bitmask
 |  |
 | ------- |
@@ -1213,4 +1216,8 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0479-largest-palindrome-product) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
