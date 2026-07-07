@@ -331,6 +331,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 | [0812-largest-triangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0812-largest-triangle-area) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
