@@ -332,6 +332,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0812-largest-triangle-area](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0812-largest-triangle-area) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -439,6 +440,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0820-short-encoding-of-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0821-shortest-distance-to-a-character) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -832,6 +834,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [3699-number-of-zigzag-arrays-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
