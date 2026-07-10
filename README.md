@@ -317,6 +317,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0319-bulb-switcher](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -360,6 +361,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0241-different-ways-to-add-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -807,6 +809,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
 | [0393-utf-8-validation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
