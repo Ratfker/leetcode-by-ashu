@@ -116,6 +116,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -632,6 +633,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0316-remove-duplicate-letters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0517-super-washing-machines) |
