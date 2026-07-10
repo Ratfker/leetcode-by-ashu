@@ -607,6 +607,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -804,6 +805,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0338-counting-bits) |
 | [0393-utf-8-validation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
