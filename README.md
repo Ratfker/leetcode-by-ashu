@@ -430,6 +430,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0336-palindrome-pairs) |
+| [0344-reverse-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
@@ -551,6 +552,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0283-move-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
+| [0344-reverse-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0481-magical-string) |
