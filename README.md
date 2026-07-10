@@ -318,6 +318,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0326-power-of-three](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -610,6 +611,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0446-arithmetic-slices-ii-subsequence) |
