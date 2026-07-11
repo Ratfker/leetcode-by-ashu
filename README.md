@@ -119,6 +119,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0334-increasing-triplet-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -220,6 +221,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0290-word-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0336-palindrome-pairs) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0391-perfect-rectangle) |
@@ -517,6 +519,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0307-range-sum-query-mutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -697,6 +700,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0268-missing-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0455-assign-cookies) |
@@ -777,6 +781,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0239-sliding-window-maximum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -962,6 +967,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0169-majority-element](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0819-most-common-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1163,6 +1169,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0164-maximum-gap](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0164-maximum-gap) |
 | [0220-contains-duplicate-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1199,6 +1206,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
 ## Binary Indexed Tree
 |  |
 | ------- |
