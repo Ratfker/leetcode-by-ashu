@@ -966,6 +966,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0672-bulb-switcher-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0672-bulb-switcher-ii) |
 | [0676-implement-magic-dictionary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0676-implement-magic-dictionary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2685-count-the-number-of-complete-components) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1123,6 +1124,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0815-bus-routes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0815-bus-routes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
@@ -1133,6 +1135,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -1145,6 +1148,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3620-network-recovery-pathways) |
 ## Design
