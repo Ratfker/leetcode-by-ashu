@@ -331,6 +331,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -966,6 +967,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0513-find-bottom-left-tree-value) |
@@ -1125,6 +1127,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0310-minimum-height-trees](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0513-find-bottom-left-tree-value) |
