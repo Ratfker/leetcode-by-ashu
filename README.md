@@ -123,6 +123,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0349-intersection-of-two-arrays](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -505,6 +506,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0483-smallest-good-base) |
@@ -874,6 +876,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0289-game-of-life](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0407-trapping-rain-water-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -886,6 +889,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0238-product-of-array-except-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0304-range-sum-query-2d-immutable) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0525-contiguous-array) |
 | [0813-largest-sum-of-averages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0813-largest-sum-of-averages) |
@@ -1257,6 +1261,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 ## Queue
 |  |
