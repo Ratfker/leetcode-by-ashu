@@ -332,6 +332,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0343-integer-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -508,6 +509,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0483-smallest-good-base) |
