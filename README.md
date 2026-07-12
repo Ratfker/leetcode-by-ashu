@@ -329,6 +329,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0335-self-crossing](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -634,6 +635,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0338-counting-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -759,6 +761,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0282-expression-add-operators](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0526-beautiful-arrangement) |
