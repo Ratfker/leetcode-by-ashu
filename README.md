@@ -335,6 +335,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0365-water-and-jug-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -852,6 +853,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0318-maximum-product-of-word-lengths](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0393-utf-8-validation) |
 | [0401-binary-watch](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0473-matchsticks-to-square) |
