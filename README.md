@@ -174,6 +174,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ratfker/leetcode-by-ashu/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -248,6 +249,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0820-short-encoding-of-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0820-short-encoding-of-words) |
 | [0822-card-flipping-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0822-card-flipping-game) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
+| [1331-rank-transform-of-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -726,6 +728,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0823-binary-trees-with-factors](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0823-binary-trees-with-factors) |
 | [0825-friends-of-appropriate-ages](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0825-friends-of-appropriate-ages) |
+| [1331-rank-transform-of-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ratfker/leetcode-by-ashu/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
