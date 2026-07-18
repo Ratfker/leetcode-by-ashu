@@ -338,6 +338,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0368-largest-divisible-subset](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -649,6 +650,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0354-russian-doll-envelopes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -1322,6 +1324,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0810-chalkboard-xor-game](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0810-chalkboard-xor-game) |
 ## Randomized
 |  |
