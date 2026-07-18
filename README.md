@@ -336,6 +336,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0367-valid-perfect-square](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0372-super-pow) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -541,6 +542,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0372-super-pow) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
