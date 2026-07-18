@@ -125,6 +125,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0354-russian-doll-envelopes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0368-largest-divisible-subset) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
@@ -816,6 +817,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0264-ugly-number-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0264-ugly-number-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0480-sliding-window-median) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0675-cut-off-trees-for-golf-event) |
