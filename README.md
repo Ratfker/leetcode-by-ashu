@@ -237,6 +237,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0391-perfect-rectangle) |
 | [0447-number-of-boomerangs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -455,6 +456,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0336-palindrome-pairs](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
@@ -1022,6 +1024,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0229-majority-element-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0383-ransom-note) |
 | [0811-subdomain-visit-count](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0819-most-common-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ratfker/leetcode-by-ashu/tree/master/3737-count-subarrays-with-majority-element-i) |
