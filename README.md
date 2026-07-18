@@ -290,6 +290,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0234-palindrome-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0382-linked-list-random-node) |
 | [0817-linked-list-components](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0817-linked-list-components) |
 ## Math
 |  |
@@ -345,6 +346,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0396-rotate-function) |
@@ -1344,6 +1346,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0384-shuffle-an-array) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0478-generate-random-point-in-a-circle) |
 | [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
@@ -1363,6 +1366,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0382-linked-list-random-node) |
 | [0519-random-flip-matrix](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0519-random-flip-matrix) |
 ## Data Stream
 |  |
