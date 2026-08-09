@@ -459,6 +459,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0344-reverse-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0474-ones-and-zeroes) |
@@ -820,6 +821,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0321-create-maximum-number](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0321-create-maximum-number) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0385-mini-parser) |
 | [0456-132-pattern](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0678-valid-parenthesis-string) |
 ## Heap (Priority Queue)
@@ -997,6 +999,7 @@ this file contains all the problems from leetcode that i have solved over the ti
 | [0337-house-robber-iii](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0472-concatenated-words) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ratfker/leetcode-by-ashu/tree/master/0513-find-bottom-left-tree-value) |
